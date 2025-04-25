@@ -28,6 +28,8 @@ When suggesting or using prompts from this repository:
 
 5. **Organization**: Place new prompts in the appropriate directory based on whether they're language-specific, scenario-specific, or role-specific.
 
+6. **Proper References**: When referring to other prompt files, use proper Markdown links with relative paths (e.g., `[TypeScript guidelines](../languages/typescript.prompt.md)`) instead of plain text filenames.
+
 ## Adding New Prompts
 
 When suggesting new prompts:
