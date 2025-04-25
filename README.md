@@ -26,8 +26,8 @@ To configure VS Code to use these prompts with GitHub Copilot:
 
 ```json
 {
-  "chat.promptFiles": [
-    "/path/to/wewei-coding-prompts"
+  "chat.promptFilesLocations": [
+    "/path/to/wewei-coding-prompts/**"
   ]
 }
 ```
