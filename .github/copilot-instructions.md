@@ -1,17 +1,21 @@
 # GitHub Copilot Instructions for Coding Prompts Repository
 
 ## Repository Purpose
+
 This repository contains project-neutral coding prompts organized by programming languages, scenarios, and roles. The prompts are designed to be reusable across different projects and contexts.
 
 ## File Structure
+
 - `languages/` - Prompts for specific programming languages
 - `scenarios/` - Prompts for different coding scenarios
 - `roles/` - Prompts for different development roles
 
 ## Prompt Format
+
 All prompts follow a `.prompt.md` extension format. Each file contains only the prompt text itself without titles or explanatory text.
 
 ## Handling Prompts
+
 When suggesting or using prompts from this repository:
 
 1. **Project Neutrality**: Ensure that all prompts remain project-neutral. Don't add project-specific details to prompt files.
@@ -25,6 +29,7 @@ When suggesting or using prompts from this repository:
 5. **Organization**: Place new prompts in the appropriate directory based on whether they're language-specific, scenario-specific, or role-specific.
 
 ## Adding New Prompts
+
 When suggesting new prompts:
 
 1. Follow the established pattern in existing prompt files
@@ -34,6 +39,7 @@ When suggesting new prompts:
 5. Place in the correct category folder
 
 ## Modifying Existing Prompts
+
 When suggesting modifications to existing prompts:
 
 1. Maintain the original intent and focus of the prompt
